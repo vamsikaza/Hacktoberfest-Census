@@ -1,3 +1,4 @@
+
 # Hacktoberfest Census
 
 A census of those participating in Hacktoberfest 2017 (and an easy PR!)
@@ -15,6 +16,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [Vamsi Krishna](https://github.com/vamsikaza)
  - [Cutwell](https://github.com/Cutwell)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
